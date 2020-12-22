@@ -1,8 +1,6 @@
 # AWS_Image_Upload
 Image upload web applicatin using Spring Boot , React  and Amazon Web Services (S3 bucket).
 
-Demonstration Link : https://youtu.be/hQFGlvp1TPA
-
 
 # Upload Image 
 <img src="assets/Screenshot_4.png" width=600>
